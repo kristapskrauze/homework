@@ -1,5 +1,5 @@
 # homework
-Wandoo homework assignment
+QA homework assignment
 
 
 # Swaper UI + API Tests
